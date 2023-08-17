@@ -1,6 +1,8 @@
 package BOJ;
 
 /* https://www.acmicpc.net/problem/2292
+ * 입력 13
+ * 출력 3
  */
 
 import java.io.BufferedReader;
